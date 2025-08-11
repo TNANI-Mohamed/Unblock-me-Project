@@ -3,7 +3,7 @@ The project contains 2 main Classes :
 -State : that keeps track of the States while playing the game. (See the Report for more INFO).
 
 
-ExRushHour : contains the Data provided in Question 6.
+ExRushHour : contains the Data for experimental results.
 Results : contains certain outputs used in the Report.
 
 ---------------------------------------------------------------------------------
