@@ -1,0 +1,42 @@
+Results of Question 6 :
+
+
+1 >> cars : 8 / shortest_path : 8 >> Time : 1.97 sec 
+2 >> cars : 11 / shortest_path : 8 >> Time : 4.92 sec 
+3 >> cars : 6 / shortest_path : 14 >> Time : 1.23 sec 
+4 >> cars : 7 / shortest_path : 9 >> Time : 0.56 sec 
+5 >> cars : 11 / shortest_path : 9 >> Time : 4.46 sec 
+6 >> cars : 11 / shortest_path : 9 >> Time : 3.24 sec 
+7 >> cars : 9 / shortest_path : 13 >> Time : 9.79 sec 
+8 >> cars : 14 / shortest_path : 12 >> Time : 1.35 sec 
+9 >> cars : 12 / shortest_path : 12 >> Time : 1.22 sec 
+10 >> cars : 12 / shortest_path : 17 >> Time : 3.46 sec 
+11 >> cars : 8 / shortest_path : 25 >> Time : 1.32 sec 
+12 >> cars : 8 / shortest_path : 17 >> Time : 2.18 sec 
+13 >> cars : 13 / shortest_path : 16 >> Time : 16.94 sec 
+14 >> cars : 12 / shortest_path : 17 >> Time : 24.31 sec 
+15 >> cars : 14 / shortest_path : 23 >> Time : 7.70 sec 
+16 >> cars : 11 / shortest_path : 21 >> Time : 4.73 sec 
+17 >> cars : 12 / shortest_path : 24 >> Time : 4.51 sec 
+18 >> cars : 9 / shortest_path : 25 >> Time : 2.95 sec 
+19 >> cars : 8 / shortest_path : 22 >> Time : 0.63 sec 
+20 >> cars : 10 / shortest_path : 10 >> Time : 2.56 sec 
+21 >> cars : 7 / shortest_path : 21 >> Time : 0.28 sec 
+22 >> cars : 12 / shortest_path : 26 >> Time : 7.57 sec 
+23 >> cars : 10 / shortest_path : 29 >> Time : 4.84 sec 
+24 >> cars : 10 / shortest_path : 25 >> Time : 8.99 sec 
+25 >> cars : 13 / shortest_path : 27 >> Time : 19.91 sec 
+26 >> cars : 12 / shortest_path : 28 >> Time : 9.55 sec 
+27 >> cars : 10 / shortest_path : 28 >> Time : 4.73 sec 
+28 >> cars : 12 / shortest_path : 30 >> Time : 3.87 sec 
+29 >> cars : 12 / shortest_path : 31 >> Time : 8.77 sec 
+30 >> cars : 10 / shortest_path : 32 >> Time : 1.97 sec 
+31 >> cars : 11 / shortest_path : 37 >> Time : 7.97 sec 
+32 >> cars : 11 / shortest_path : 37 >> Time : 0.74 sec 
+33 >> cars : 12 / shortest_path : 40 >> Time : 9.98 sec 
+34 >> cars : 12 / shortest_path : 43 >> Time : 9.74 sec 
+35 >> cars : 11 / shortest_path : 43 >> Time : 8.02 sec 
+36 >> cars : 12 / shortest_path : 44 >> Time : 5.96 sec 
+37 >> cars : 11 / shortest_path : 48 >> Time : 4.40 sec 
+38 >> cars : 12 / shortest_path : 50 >> Time : 8.20 sec 
+39 >> cars : 12 / shortest_path : 51 >> Time : 6.30 sec 
